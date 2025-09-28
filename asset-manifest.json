@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.2f2afeee.css",
-    "main.js": "/static/js/main.fea9086d.js",
-    "index.html": "/index.html",
-    "main.2f2afeee.css.map": "/static/css/main.2f2afeee.css.map",
-    "main.fea9086d.js.map": "/static/js/main.fea9086d.js.map"
+    "main.css": "/Smart_Team_Workspace/static/css/main.2f2afeee.css",
+    "main.js": "/Smart_Team_Workspace/static/js/main.fea9086d.js",
+    "index.html": "/Smart_Team_Workspace/index.html",
+    "main.2f2afeee.css.map": "/Smart_Team_Workspace/static/css/main.2f2afeee.css.map",
+    "main.fea9086d.js.map": "/Smart_Team_Workspace/static/js/main.fea9086d.js.map"
   },
   "entrypoints": [
     "static/css/main.2f2afeee.css",
